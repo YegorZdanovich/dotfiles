@@ -1,0 +1,21 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+  "draw_white_space": "all",
+  "font_size": 14.0,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "remember_full_screen": true,
+
+  "index_files": true,
+
+  // base on core count
+  "index_workers": 0,
+
+  "index_exclude_patterns": ["*.log", "*.gz", ".png"]
+
+}
