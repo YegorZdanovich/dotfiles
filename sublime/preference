@@ -1,5 +1,6 @@
 {
-  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+  "theme": "Seti.sublime-theme",
+  "color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
   "draw_white_space": "all",
   "font_size": 14.0,
   "ignored_packages":
